@@ -12,6 +12,8 @@ blender --background op1.blend --render-output // --engine CYCLES --render-forma
 
 ### Fix the dimensions to make the keyboard fit right
 
+Use the image from https://github.com/TomasHubelbauer/three-op-1 to get the dimensions.
+
 ### Finalize the square and rectangular keys including the curved taper
 
 ### Design the knobs
